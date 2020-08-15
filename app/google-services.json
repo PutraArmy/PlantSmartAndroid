@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867758981752",
+    "firebase_url": "https://iot4tubeskel2.firebaseio.com",
+    "project_id": "iot4tubeskel2",
+    "storage_bucket": "iot4tubeskel2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867758981752:android:354113f0760011c3b3a38d",
+        "android_client_info": {
+          "package_name": "com.example.plantsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867758981752-t106ghcnl189de62gv3bubj5bhicqrac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuz9DBwreBlFv-zK69GzRkDVhF4JiRuZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867758981752-t106ghcnl189de62gv3bubj5bhicqrac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
